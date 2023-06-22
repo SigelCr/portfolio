@@ -1,0 +1,13 @@
+.primaryContainer {
+  border: 15px solid red;
+}
+
+.secundaryContainer {
+  border: 9px solid blue;
+  display: flex;
+}
+.listContainer {
+  border: 5px solid green;
+  width: 100%;
+  display: flex;
+}
